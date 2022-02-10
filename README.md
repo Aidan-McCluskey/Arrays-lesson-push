@@ -1,2 +1,2 @@
-# Arrays-lesson-push
-lesson about the .push function
+# Arrays-lesson-splice
+lesson about the .splice function
